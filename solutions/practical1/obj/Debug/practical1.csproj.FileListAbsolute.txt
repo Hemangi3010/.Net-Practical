@@ -1,0 +1,6 @@
+E:\sem 6\.NET\programs\Practicals\solutions\practical1\bin\Debug\practical1.exe.config
+E:\sem 6\.NET\programs\Practicals\solutions\practical1\obj\Debug\practical1.csprojResolveAssemblyReference.cache
+E:\sem 6\.NET\programs\Practicals\solutions\practical1\bin\Debug\practical1.exe
+E:\sem 6\.NET\programs\Practicals\solutions\practical1\bin\Debug\practical1.pdb
+E:\sem 6\.NET\programs\Practicals\solutions\practical1\obj\Debug\practical1.exe
+E:\sem 6\.NET\programs\Practicals\solutions\practical1\obj\Debug\practical1.pdb
